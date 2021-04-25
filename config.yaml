@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: pg-config
+data:
+  POSTGRES_DB: footie
+  POSTGRES_USER: footer
+  POSTGRES_PASSWORD: changeme

@@ -1,0 +1,5 @@
+resources:
+- persistence.yaml
+- config.yaml
+- service.yaml
+- database.yaml
