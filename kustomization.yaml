@@ -1,4 +1,5 @@
 resources:
+- namespace.yaml
 - persistence.yaml
 - config.yaml
 - service.yaml
